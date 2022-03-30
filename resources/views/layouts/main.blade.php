@@ -21,6 +21,12 @@
         width: 100%;
         margin: auto;
     }
+
+    .shadow-sm:hover {
+        transform: scale(1.5);
+        transition: 2s;
+        z-index: 100;
+    }
 </style>
 
     <title>Flixnet</title>

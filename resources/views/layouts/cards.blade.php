@@ -1,152 +1,163 @@
-<div class="album py-5 bg-light">
-    <div class="container">
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+<section class="container mx-5">
+    <h3 style="color: white" class="mt-2">New Releases</h3> 
+    <div class="row row-cols-lg-5 g-lg-6 g-2">
         <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
+            <div class="" style="position: relative; top: 0; left: 0;">
+                <!-- <div class="img-container"> -->
+                    <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                    <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+                <!-- </div> -->
             </div>
-          </div>
         </div>
         <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
             </div>
-          </div>
         </div>
         <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
             </div>
-          </div>
         </div>
-
+        
         <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
             </div>
-          </div>
         </div>
+        
+        
         <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
             </div>
-          </div>
         </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
-  </div>
+</section>
+
+<section class="container mx-5" style="margin-top: 200px;">
+    <h3 style="color: white" class="">US Workplace TV Programmes</h3> 
+    <div class="row row-cols-lg-5 g-lg-6 g-2">
+        <div class="col">
+            <div class="" style="position: relative; top: 0; left: 0;">
+                <!-- <div class="img-container"> -->
+                    <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                    <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+                <!-- </div> -->
+            </div>
+        </div>
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        
+        
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container mx-5" style="margin-top: 200px;">
+    <h3 style="color: white" class="">Trending Now</h3> 
+    <div class="row row-cols-lg-5 g-lg-6 g-2">
+        <div class="col">
+            <div class="" style="position: relative; top: 0; left: 0;">
+                <!-- <div class="img-container"> -->
+                    <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                    <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+                <!-- </div> -->
+            </div>
+        </div>
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        
+        
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container mx-5" style="margin-top: 200px;">
+    <h3 style="color: white" class="">My List</h3> 
+    <div class="row row-cols-lg-5 g-lg-6 g-2">
+        <div class="col">
+            <div class="" style="position: relative; top: 0; left: 0;">
+                <!-- <div class="img-container"> -->
+                    <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                    <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+                <!-- </div> -->
+            </div>
+        </div>
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+        
+        
+        <div class="col">
+            <div class="" style="  position: relative; top: 0; left: 0;">
+                <img src="{{ URL('images/blackmirror.jpg')}}" class="card-img" alt="" style="border: none;   position: absolute; top: 0; left: 0;">
+                <img src="{{ URL('images/netflix n.png')}}" alt="netflix letter" style="width: 30px; height:30px; position: relative; top: 0; left: 0;" >
+            </div>
+        </div>
+    </div>
+</section>
