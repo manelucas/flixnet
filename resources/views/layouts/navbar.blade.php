@@ -18,7 +18,7 @@
         <div class="py-2 col-3">
             My list
         </div>
-        <div class="py-2 col-1">
+        <div class="py-2 col">
             <img src="{{ URL('images/search.png')}}" style="width:25px; height: auto" alt="">
         </div>
         <div class="py-2 col-1">

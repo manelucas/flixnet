@@ -17,7 +17,7 @@
     }
     .navbar{
         color: white;
-        background-color: black;
+        background-color: rgba(0, 0, 0, 0.95);
         width: 100%;
         margin: auto;
     }
